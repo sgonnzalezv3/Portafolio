@@ -12,7 +12,7 @@ export const InfoField = () => {
           constant preparation, creativity and progress, ingenious and
           innovative with the mentality available for new challenges, always
           with a good aptitude, commitment and aware that teamwork is
-          indispensable to achieve the objectives. millos
+          indispensable to achieve the objectives.
         </p>
       </div>
       <div className="col-lg-6 col-md-12 mt-3 ">
@@ -21,7 +21,7 @@ export const InfoField = () => {
           <div className="col-12 personalInfo">
             <strong>NAME</strong>
           </div>
-          <div className="col-12 personalInfo">Santiago Gonzalez Vergara</div>
+          <div className="col-12 personalInfo">Santiago Proo Gonzalez Vergara</div>
         </div>
         <div className="row">
           <div className="col-12 personalInfo">
