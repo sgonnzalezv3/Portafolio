@@ -1,5 +1,5 @@
 .header-container2 {
-  background: url('https://images.pexels.com/photos/6709838/pexels-photo-6709838.jpeg?cs=srgb&dl=pexels-santiago-gonzalez-6709838.jpg&fm=jpg') center center/cover;
+  background: url('../assets/fondo1.jpg') center center/cover;
   flex-direction: column;
   width: 100%;
 
