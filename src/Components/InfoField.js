@@ -12,7 +12,7 @@ export const InfoField = () => {
           constant preparation, creativity and progress, ingenious and
           innovative with the mentality available for new challenges, always
           with a good aptitude, commitment and aware that teamwork is
-          indispensable to achieve the objectives.
+          indispensable to achieve the objectives. millos
         </p>
       </div>
       <div className="col-lg-6 col-md-12 mt-3 ">
