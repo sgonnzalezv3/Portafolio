@@ -16,7 +16,7 @@ export const NavbarPage = () => {
           <Navbar.Collapse id="responsive-navbar-nav  " className="fondoo2">
             <Nav className="mr-auto " id="navigation-bar">
               <Nav.Link href="#features" className="navbar-custom menus ">
-                ABOUT
+                Miyoz
               </Nav.Link>
               <Nav.Link href="#pricing" className="navbar-custom menus">
                 SKILLS
