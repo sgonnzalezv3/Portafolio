@@ -21,7 +21,7 @@ export const InfoField = () => {
           <div className="col-12 personalInfo">
             <strong>NAME</strong>
           </div>
-          <div className="col-12 personalInfo">Santiago Proo Gonzalez Vergara</div>
+          <div className="col-12 personalInfo">Santiago Gonzalez Vergara</div>
         </div>
         <div className="row">
           <div className="col-12 personalInfo">

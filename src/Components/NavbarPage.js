@@ -28,7 +28,7 @@ export const NavbarPage = () => {
                 EXPERIENCE
               </Nav.Link>
               <Nav.Link href="#pricing" className="navbar-custom menus">
-                CONTACT
+                MESSI
               </Nav.Link>
             </Nav>
           </Navbar.Collapse>
