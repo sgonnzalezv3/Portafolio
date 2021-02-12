@@ -23,7 +23,7 @@ export const Header = () => {
       </div>
       <div className="content-center3 letterSub animate__animated animate__fadeIn ">SOFTWARE DEVELOPER</div>
       <div className="content-center5">
-        <a className="btn btn-info button espacio animate__animated animate__fadeIn" href="Documents/santiagoGonzalezv-convertido - Copy.pdf" download="CV Santiago Gonzalez">Download CV</a>
+        <a className="btn btn-info button espacio animate__animated animate__fadeIn" href="Documents/santiagoGonzalezv-convertido - Copy.pdf" download="CV Santiago Gonzalez">Millos CV</a>
       </div>
 
       <div className="row content-center6">
