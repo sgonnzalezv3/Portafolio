@@ -1,24 +1,20 @@
 {
-  "homepage":"https://sgonnzalezv3.github.io/Portafolio",
-  "name": "portafoliio",
-  "version": "0.1.0",
+  "homepage": "https://sgonnzalezv3.github.io/Portafolio",
+  "name": "santiago-gonzalez-portfolio",
+  "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@material-ui/core": "^4.11.3",
-    "@testing-library/jest-dom": "^5.11.9",
-    "@testing-library/react": "^11.2.5",
-    "@testing-library/user-event": "^12.6.3",
-    "react": "^17.0.1",
-    "react-dom": "^17.0.1",
-    "react-scripts": "4.0.2",
-    "web-vitals": "^1.1.0"
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy" : "npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
@@ -40,8 +36,6 @@
     ]
   },
   "devDependencies": {
-    "@iconify-icons/entypo-social": "^1.1.0",
-    "@iconify/react": "^2.0.0-rc.5",
-    "gh-pages": "^3.1.0"
+    "gh-pages": "^6.1.1"
   }
 }
