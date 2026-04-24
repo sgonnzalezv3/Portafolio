@@ -187,7 +187,7 @@ export const PortfolioApp = () => {
             <a href="#contact">Contact</a>
           </div>
 
-          <a className="nav-cta" href={resumeFile} download="SantiagoGonzalezVergara-CV.pdf">
+          <a className="nav-cta" href={resumeFile} download="SantiagoGonzalezVergara.pdf">
             Resume
           </a>
         </nav>
@@ -217,7 +217,7 @@ export const PortfolioApp = () => {
               <a
                 className="button button-secondary"
                 href={resumeFile}
-                download="SantiagoGonzalezVergara-CV.pdf"
+                download="SantiagoGonzalezVergara.pdf"
               >
                 Download CV
               </a>
