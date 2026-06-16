@@ -180,7 +180,9 @@ export const PortfolioApp = () => {
       <header className="site-header">
         <nav className="site-nav">
           <a className="brand" href="#top">
-            <span className="brand-mark">SG</span>
+            <span className="brand-mark" aria-hidden="true">
+              <img src={`${process.env.PUBLIC_URL}/favicon.ico.png`} alt="" />
+            </span>
             <span className="brand-copy">
               <strong>Santiago Gonzalez</strong>
               <span>Senior backend, cloud integrations and AI-assisted engineering</span>
