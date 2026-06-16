@@ -2,7 +2,9 @@ import React from "react";
 import portrait from "./assets/portrait-santiago.png";
 import "./portfolio.css";
 
-const resumeFile = `${process.env.PUBLIC_URL}/SantiagoGonzalezVergara.pdf`;
+const resumeFileName = "SantiagoGonzalezVergara_CV_CIAT_Recent_AI_Automation_RootCause_Final.pdf";
+const resumeDownloadName = "Santiago Gonzalez CV.pdf";
+const resumeFile = `${process.env.PUBLIC_URL}/${resumeFileName}`;
 
 const metrics = [
   { value: "5+ Years", label: "Across backend, cloud and full lifecycle delivery" },
@@ -187,7 +189,7 @@ export const PortfolioApp = () => {
             <a href="#contact">Contact</a>
           </div>
 
-          <a className="nav-cta" href={resumeFile} download="SantiagoGonzalezVergara.pdf">
+          <a className="nav-cta" href={resumeFile} download={resumeDownloadName}>
             Resume
           </a>
         </nav>
@@ -217,7 +219,7 @@ export const PortfolioApp = () => {
               <a
                 className="button button-secondary"
                 href={resumeFile}
-                download="SantiagoGonzalezVergara.pdf"
+                download={resumeDownloadName}
               >
                 Download CV
               </a>
